@@ -1,0 +1,77 @@
+{
+  "menuBar": {
+    "border": {
+      "fg": "#333"
+    },
+    "selected": {
+      "fg": "#ff9347"
+    },
+    "focus": {
+      "border": {
+        "fg": "#ff9347"
+      }
+    }
+  },
+  "listMethods": {
+    "selected": {
+      "bg": "#ff9347",
+      "fg": "black"
+    },
+    "focus": {
+      "border": {
+        "fg": "#ff9347"
+      }
+    }
+  },
+  "listHeaders": {
+    "selected": {
+      "fg": "black",
+      "bg": "#ff9347"
+    },
+    "focus": {
+      "border": {
+        "fg": "#ff9347"
+      }
+    }
+  },
+  "textBody": {
+    "border": {
+      "fg": "#ff9347"
+    }
+  },
+  "inputUrl": {
+    "border": {
+      "fg": "#333"
+    },
+    "focus": {
+      "border": {
+        "fg": "#ff9347"
+      }
+    }
+  },
+  "responseBox": {
+    "border": {
+      "fg": "#333"
+    },
+    "focus": {
+      "border": {
+        "fg": "#ff9347"
+      }
+    }
+  },
+  "buttonSend": {
+    "border": {
+      "fg": "#333"
+    },
+    "focus": {
+      "border": {
+        "fg": "#ff9347"
+      }
+    }
+  },
+  "prompt": {
+    "border": {
+      "fg": "#ff9347"
+    }
+  }
+}
