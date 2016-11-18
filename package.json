@@ -1,21 +1,27 @@
 {
-  "name": "http-gui",
+  "name": "http-tui",
   "version": "0.0.1",
-  "description": "A HTTP client with a simple GUI.",
+  "description": "A HTTP client with a simple terminal interface.",
   "main": "./lib/main.js",
   "bin": {
-    "http-gui": "./bin/http-gui"
+    "http-tui": "./bin/http-tui"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shahin8r/http-gui.git"
+    "url": "https://github.com/shahin8r/http-tui.git"
   },
   "keywords": [
+    "http",
     "rest",
-    "gui"
+    "api",
+    "gui",
+    "tui",
+    "ui",
+    "terminal",
+    "cli"
   ],
   "files": [
     "bin",
@@ -24,7 +30,7 @@
   "author": "Shahin Agha-Ghassem",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahin8r/http-gui/issues"
+    "url": "https://github.com/shahin8r/http-tui/issues"
   },
   "dependencies": {
     "blessed": "^0.1.81",
